@@ -905,6 +905,14 @@ td {
     height: 90%;
   }
 
+  .footer-nav a {
+    color: whitesmoke;
+  }
+
+  .footer-bottom-container p {
+    color: whitesmoke;
+  }
+
   .footer-nav a:hover {
     color: #FEF100;
     transform: translateY(-5px) scale(1.15);
